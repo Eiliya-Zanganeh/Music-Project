@@ -1,5 +1,5 @@
 # Music Project: 
-#### with Django & VueJs 
+#### With Django & VueJs 
 
 ---
 
